@@ -21,7 +21,7 @@ A responsive landing page for Roast & Toast Coffee Shop, designed to showcase th
 - **Services:** Information about the services provided, including menus and special offers.
 - **Contact:** Contact form and location details.
 
-#### 2. Portfolio
+### 2. Portfolio
 A personal portfolio website to showcase my skills, projects, and resume.
 
 ### Technologies Used
